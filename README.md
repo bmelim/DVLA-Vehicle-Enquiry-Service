@@ -10,11 +10,6 @@ This component provides vehicle details of a specified vehicle into and adds a s
 ![Project Maintenance][maintenance-shield]
 
 
-Enjoying this? Help me out with a :beers: or :coffee:!
-
-[![coffee](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)](https://www.buymeacoffee.com/jampez77)
-
-
 ## Installation through [HACS](https://hacs.xyz/)
 You can install the **DVLA Vehicle Enquiry Service** integration by searching for it there in HA instance.
 
